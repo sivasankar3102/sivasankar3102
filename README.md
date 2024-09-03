@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Sivasankar</h1>
+<h1 align="center">Hi 👋, I'm Sivasankar</h1>
 <h3 align="center">Electrical & Electronics Engineering Graduate</h3>
 
 - 📫 Mail **akkumanoj02@gmail.com**
@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-sivasankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-sivasankar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/m-sivasankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-sivasankar" height="30" width="40" /></a>
 <a href="https://instagram.com/siv_sankar__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siv_sankar__" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sivasankar02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sivasankar02" height="30" width="40" /></a>
 </p>
@@ -20,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasankar3102&show_icons=true&locale=en" alt="sivasankar3102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar3102&" alt="sivasankar3102" /></p>
-](https://www.linkedin.com/in/m-sivasankar)
