@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sivasankar</h1>
+[<h1 align="center">Hi 👋, I'm Sivasankar</h1>
 <h3 align="center">Electrical & Electronics Engineering Graduate</h3>
 
 - 📫 Mail **akkumanoj02@gmail.com**
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivasankar3102&show_icons=true&locale=en" alt="sivasankar3102" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar3102&" alt="sivasankar3102" /></p>
+](https://www.linkedin.com/in/m-sivasankar)
