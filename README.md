@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sivasankar</h1>
-<h3 align="center">A recent EEE Grad</h3>
+<h3 align="center">Electrical & Electronics Engineering Graduate</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivasankar3102" alt="sivasankar3102" /></a> </p>
+- 📫 Mail **akkumanoj02@gmail.com**
 
-- 📫 How to reach me **akkumanoj02@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link)
+- 📄 Resume [https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
