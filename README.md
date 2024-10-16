@@ -3,7 +3,7 @@
 
 - 📫 Mail **akkumanoj02@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/1-YNCauscB2GIdyQVlEY_BHeTkYCl2lIx/view?usp=drive_link))
+- 📄 Resume [https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/19bcGei-BYUoznAVTnuz8OTb90HgcA7fr/view?usp=drive_link](https://drive.google.com/file/d/1-YNCauscB2GIdyQVlEY_BHeTkYCl2lIx/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
