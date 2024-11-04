@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sivasankar</h1>
 <h3 align="center">Electrical & Electronics Engineering Graduate</h3>
 
-- 📫 Mail **akkumanoj02@gmail.com**
+- 📫 Mail **msivasankar3105@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1-YNCauscB2GIdyQVlEY_BHeTkYCl2lIx/view?usp=drive_link](https://drive.google.com/file/d/1k88QiKNwHI_-nkUgvgpfFPNdYaiiyEIr/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/17ugUaD-Q86_lODz9YoxXv6sFKGrYc8yo/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
