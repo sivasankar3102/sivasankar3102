@@ -3,7 +3,7 @@
 
 - 📫 Mail **msivasankar3105@gmail.com**
 
-- 📄 Resume https://drive.google.com/file/d/17ugUaD-Q86_lODz9YoxXv6sFKGrYc8yo/view?usp=drive_link
+- 📄 Resume https://drive.google.com/file/d/1OvGE7IyaXIeE5yfQ9vdKadeusu00jMkr/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
